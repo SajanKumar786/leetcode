@@ -6,6 +6,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SajanKumar786/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SajanKumar786/leetcode/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/SajanKumar786/leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
