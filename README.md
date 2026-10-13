@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SajanKumar786/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SajanKumar786/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SajanKumar786/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SajanKumar786/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SajanKumar786/leetcode/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SajanKumar786/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
