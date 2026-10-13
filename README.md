@@ -32,6 +32,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/SajanKumar786/leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/SajanKumar786/leetcode/tree/master/0258-add-digits) |
+| [2235-add-two-integers](https://github.com/SajanKumar786/leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
