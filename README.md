@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SajanKumar786/leetcode/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/SajanKumar786/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
